@@ -1,1 +1,1 @@
-# B1ssultanov_template
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ssultanov)](https://github.com/anuraghazra/github-readme-stats)
