@@ -48,17 +48,18 @@
   <img src="https://skillicons.dev/icons?i=css,html,figma,git,github,java,js,phpstorm,webstorm,pycharm,clion,idea,vscode,stackoverflow,linux,mongodb,mysql,postgresql,py,django,selenium,cpp,php,laravel,docker,aws,azure,terraform,nginx,postman&perline=10">
 </p>
 
+<!--
 <h2 align="center">
   My Github Stats
 </h2>
-<!--
+
 <br>
+
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=b1ssultanov&show_icons=true&theme=highcontrast&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=b1ssultanov&hide=html,css,java,plsql&theme=highcontrast">
-</p> -->
+</p>
 
-<!--
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=b1ssultanov&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />
 </p> 
