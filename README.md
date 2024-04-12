@@ -4,5 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1ssultanov&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=B1ssultanov)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=B1ssultanov&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
