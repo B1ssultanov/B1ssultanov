@@ -51,14 +51,15 @@
 <h2 align="center">
   My Github Stats
 </h2>
- 
+<!--
 <br>
-
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=b1ssultanov&show_icons=true&theme=highcontrast&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=b1ssultanov&hide=html,css,java,plsql&theme=highcontrast">
-</p>
+</p> -->
 
+<!--
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=b1ssultanov&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />
 </p> 
+-->
