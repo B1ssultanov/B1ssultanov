@@ -41,11 +41,10 @@
   <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/--black?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=css,html,figma,git,github,java,js,phpstorm,webstorm,pycharm,clion,idea,vscode,stackoverflow,linux,mongodb,mysql,postgresql,py,django,selenium,cpp,php,laravel,docker,aws,azure,terraform,nginx,postman&perline=10">
+  <img src="https://skillicons.dev/icons?i=css,html,figma,git,github,java,js,phpstorm,webstorm,pycharm,clion,idea,vscode,stackoverflow,linux,mongodb,mysql,postgresql,py,django,selenium,cpp,php,laravel,docker,aws,azure,terraform,nginx,postman,bitbucket,elasticsearch,grafana,jenkins,nodejs,npm,redis,vue&perline=10">
 </p>
 
 <!--
